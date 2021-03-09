@@ -1,0 +1,22 @@
+.logo{
+	height: 100px;
+}
+
+.carousel{
+	margin-top: 50px;
+}
+
+.border-top{
+	border-top-width: 5px !important;
+	background-color: #C4C2BE;
+}
+
+.privasi{
+	background-color: #C4C2BE;
+}
+
+.kebijakan-syarat{
+	margin-top: 100px; 
+	min-height: 500px;
+}
+
